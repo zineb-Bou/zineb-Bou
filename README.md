@@ -1,10 +1,9 @@
 <h3 align="center">👋 Hello! I'm Zineb.</h3>
 
-<p align="center">
+<div align="center">
   <p>Welcome to my Github repo!</p>
-  <p>Checking out 👉 <a href="https://github.com/zineb-Bou/my-pixel-perfect-projects"> my pixel-perfect projects</a> •
- </p>
-</p>
+  <p>Checking out 👉 <a href="https://github.com/zineb-Bou/my-pixel-perfect-projects"> my pixel-perfect projects</a> • </p>
+</div>
 
 <!--
 **zineb-Bou/zineb-Bou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
