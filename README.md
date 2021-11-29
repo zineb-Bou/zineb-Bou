@@ -2,7 +2,6 @@
 
 <div align="center">
   <p>Welcome to my Github repo!</p>
-  <p>Check out 👉 <a href="https://github.com/zineb-Bou/my-pixel-perfect-projects"> my pixel-perfect projects</a> • </p>
 </div>
 
 <!--
