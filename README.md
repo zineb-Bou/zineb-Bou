@@ -2,6 +2,7 @@
 
 <div align="center">
   <p>Welcome to my Github repo!</p>
+  <p>Check my [pixel perfect projects] (https://github.com/zineb-Bou/my-pixel-perfect-projects)</p>
 </div>
 
 <!--
