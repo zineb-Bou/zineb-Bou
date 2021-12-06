@@ -1,8 +1,6 @@
 <h3 align="center">👋 Hello! I'm Zineb.</h3>
 
-<div align="center">
-  <p>Welcome to my Github repo!</p>
-</div>
+Welcome to my Github repo!
 Check my [pixel perfect projects](https://github.com/zineb-Bou/my-pixel-perfect-projects)  
 
 <!--
