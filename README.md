@@ -2,8 +2,8 @@
 
 <div align="center">
   <p>Welcome to my Github repo!</p>
-  Check my [pixel perfect projects] (https://github.com/zineb-Bou/my-pixel-perfect-projects)  
 </div>
+Check my [pixel perfect projects](https://github.com/zineb-Bou/my-pixel-perfect-projects)  
 
 <!--
 **zineb-Bou/zineb-Bou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
