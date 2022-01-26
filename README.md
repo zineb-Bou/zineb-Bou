@@ -2,6 +2,7 @@
 
 Welcome to my Github repo!
 Check my [pixel perfect projects](https://github.com/zineb-Bou/my-pixel-perfect-projects)  
+Find me on 👉 [Frontend mentor](https://www.frontendmentor.io/profile/zineb-Bou)
 
 <!--
 **zineb-Bou/zineb-Bou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
