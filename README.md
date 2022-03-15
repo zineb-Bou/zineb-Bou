@@ -1,4 +1,4 @@
-<h3>👋 Hello! I'm Zineb Boutaa</h3>
+<h3 align="center">👋 Hello! I'm Zineb Boutaa</h3>
 
 <div align="center">
 Software engineer graduate, inspired to be a UX engineer, I speak both design and code, I am passionate about bringing creative design solutions to life with keeping user experience and accessibility always in mind.
