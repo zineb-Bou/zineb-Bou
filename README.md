@@ -1,4 +1,4 @@
-<h3>👋 Hello! I'm Zineb.</h3>
+<h3>👋 Hello! I'm Zineb Boutaa</h3>
 
 Welcome to my Github repo!
 Check my [pixel perfect projects](https://github.com/zineb-Bou/my-pixel-perfect-projects)  
