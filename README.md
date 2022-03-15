@@ -1,9 +1,11 @@
 <h3>👋 Hello! I'm Zineb Boutaa</h3>
 
-Welcome to my Github repo!
+<div align="center">
+Software engineer graduate, inspired to be a UX engineer, I speak both design and code, I am passionate about bringing creative design solutions to life with keeping user experience and accessibility always in mind.
+
 Check my [pixel perfect projects](https://github.com/zineb-Bou/my-pixel-perfect-projects)  
 Find me on 👉 [Frontend mentor](https://www.frontendmentor.io/profile/zineb-Bou)
-
+</div>
 <!--
 **zineb-Bou/zineb-Bou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
