@@ -4,6 +4,7 @@
 Software engineer graduate 🎓, inspired to be a UX engineer 👩‍💻, I speak both design 🎨 and code 💻, I am passionate about bringing creative design solutions to life with keeping user experience and accessibility always in mind.
 
 Check my [pixel perfect projects](https://github.com/zineb-Bou/my-pixel-perfect-projects)  
+My coding [playlist](https://www.youtube.com/playlist?list=PL7lFQotx1z17zO88RlD5NiWQdLcBypjes) 🎻💻
 <!-- Find me on 👉 [Frontend mentor](https://www.frontendmentor.io/profile/zineb-Bou) -->
 </div>
 <!--
