@@ -1,7 +1,19 @@
+<h3 align="center">👋 Hello! I'm Zineb Boutaa</h3>
+
+<div>
+Master of computer science, I'm passionate about building beautiful, functional, and accessible user-focused solutions. React is my tool of choice for building web apps. Given my computer science background, it is easier for me to learn new concepts and languages. 
+
+Currently, I am committed to the constant improvement of my craft around the web stack, I am inspired to be a UX engineer, with strong skills in Front-end, a good understanding of UX concepts, with the optimal amount of Back-End to be deadly 😎! -->
+
 <!-- <h3 align="center">👋 Hello! I'm Zineb Boutaa</h3>
 
 <div align="center">
 Software engineer graduate 🎓, inspired to be a UX engineer 👩‍💻, I speak both design 🎨 and code 💻, I am passionate about bringing creative design solutions to life with keeping user experience and accessibility always in mind.-->
+
+<div align="center">
+ Master of computer science, I'm passionate about building beautiful,
+        functional, and accessible user-focused solutions. React is my tool of
+        choice for building web apps.-->
 
 <!-- Check my [pixel perfect projects](https://github.com/zineb-Bou/my-pixel-perfect-projects)   -->
 <!--My 👉 coding [playlist](https://www.youtube.com/playlist?list=PL7lFQotx1z17zO88RlD5NiWQdLcBypjes) 🎻💻-->
