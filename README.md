@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! I'm Zineb Boutaa</h3>
+<h3>👋 Hello! I'm Zineb Boutaa</h3>
 
 <div> Master of computer science, I'm passionate about building beautiful, functional, and accessible user-focused solutions. React is my tool of choice for building web apps. Given my computer science background, it is easier for me to learn new concepts and languages. 
 
