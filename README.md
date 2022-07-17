@@ -2,7 +2,8 @@
 
 <div> Master of computer science, I'm passionate about building beautiful, functional, and accessible user-focused solutions. React is my tool of choice for building web apps. Given my computer science background, it is easier for me to learn new concepts and languages. 
 
-Currently 🌱, I am committed to the constant improvement of my craft around the web stack, I am inspired to be a UX engineer, with strong skills in Front-end, a good understanding of UX concepts, with the optimal amount of Back-End to be deadly 😎! -->
+Currently 🌱, I am committed to the constant improvement of my craft around the web stack, I am inspired to be a UX engineer, with strong skills in Front-end, a good understanding of UX concepts, with the optimal amount of Back-End to be deadly 😎! 
+</div>
 
 <!-- <h3 align="center">👋 Hello! I'm Zineb Boutaa</h3>
 
