@@ -1,6 +1,6 @@
 <h3>👋 Hello! I'm Zineb</h3>
 
-<div> Master of computer science, I'm passionate about building beautiful, functional, and accessible user-focused solutions. React is my tool of choice for building web apps. Given my computer science background, it is easier for me to learn new concepts and languages. 
+<div> I have a Master's Degree in Computer Sciences, I'm passionate about building beautiful, functional, and accessible user-focused solutions. React is my tool of choice for building web apps. Given my computer science background, it is easier for me to learn new concepts and languages. 
 
 Currently 🌱, I am committed to the constant improvement of my craft around the web stack, I am inspired to be a UX engineer, with strong skills in Front-end, a good understanding of UX concepts, with the optimal amount of Back-End to be deadly 😎! 
 </div>
